@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/simoblues19" target="blank"><img src="https://img.shields.io/twitter/follow/simoblues19?logo=twitter&style=for-the-badge" alt="simoblues19" /></a> </p>
 
-- 💬 Ask me about **Reactjs,NodeJs,Javascript**
-
 - 📫 How to reach me **wambuisimon712@gmail.com**
 
 - ⚡ Fun fact **I enjoy watching football.Code Bless You.**
