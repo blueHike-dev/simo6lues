@@ -1,6 +1,6 @@
 <h1 align="center">Hi Friend👋, I'm blueHike</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-<img align='right' alt='coding' width='400' src='https://img.freepik.com/free-vector/cartoon-working-day-scene-illustration_52683-62609.jpg?size=626&ext=jpg&ga=GA1.1.2132362951.1692180846&semt=ais'>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simo6lues&label=Profile%20views&color=0e75b6&style=flat" alt="simo6lues" /> </p>
 
