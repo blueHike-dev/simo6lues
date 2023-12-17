@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **wambuisimon712@gmail.com**
 
-- ⚡ Fun fact **I enjoy watching football.Code Bless You.**
+- ⚡ Fun fact **I enjoy watching football.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
