@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm blueHike</h1>
-<h3 align="center">A passionate frontend developer from Kenya, who love and enjoys developing softwares.</h3>
+<h3 align="center">A passionate frontend developer from Kenya, who love and enjoys developing softwares.I do love learning</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simo6lues&label=Profile%20views&color=0e75b6&style=flat" alt="simo6lues" /> </p>
