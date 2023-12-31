@@ -4,7 +4,7 @@
     My name is blueHike and I'm a self-taught Full Stack Sofware Developer from Kenya. I spend most of my time working with JavaScript technologies to develop owesome Application. Right now my mind is focused on learning everything that is related to Blockchain and Web Development . I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
-<br/><a href="https://www.linkedin.com/in/simo-blues-93724525b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<br/>
 <a href="mailto:wambuisimon712@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 # 🔧 Technologies And Tools.
@@ -160,11 +160,7 @@
   </tr>
 </table>
 
-# 📈 Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=blueHike&show_icons=true&theme=react&&hide_border=true"
-/>
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=blueHike&&theme=react&&hide_border=true"
 />
