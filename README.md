@@ -1,7 +1,7 @@
 # 👋 Hello There!
 
 <div align="justify">
-    My name is blueHike. I'm a self-taught Full Stack Sofware Developer from Kenya. I spend most of my time working with JavaScript technologies to develop owesome Application. Right now my mind is focused on learning everything that is related to Blockchain and Web Development . I'm more passionate about exploring new technologies, which I can leverage to solve real-life problems.
+    My name is blueHike. I'm a self-taught Full Stack Sofware Developer from Kenya. I spend most of my time working with JavaScript technologies to develop owesome Application. Right now my mind is focused on learning everything that is related to Blockchain and Web Development . I'm more passionate about exploring new technologies, which I can leverage to solve real-life problems and help my community.
 </div>
 
 <br/>
