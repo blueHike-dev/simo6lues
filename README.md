@@ -159,11 +159,6 @@
     </td>
   </tr>
 </table>
-[![Photoshop](https://img.shields.io/badge/Photoshop-Adobe-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=blue)](link-to-your-profile)
-[![Lightroom](https://img.shields.io/badge/Lightroom-Adobe-informational?style=flat&logo=adobe-lightroom&logoColor=white&color=green)](link-to-your-profile)
-[![Figma](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=purple)](link-to-your-profile)
-[![Illustrator](https://img.shields.io/badge/Illustrator-Adobe-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=orange)](link-to-your-profile)
-
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=blueHike&&theme=react&&hide_border=true"
