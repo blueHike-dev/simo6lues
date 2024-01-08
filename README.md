@@ -123,12 +123,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        src="https://cdn.worldvectorlogo.com/logos/redux.svg"
         width="48"
         height="48"
-        alt="Firebase"
+        alt="Redux"
       />
-      <br /><strong>Firebase</strong>
+      <br /><strong>Redux</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
